@@ -1,4 +1,9 @@
-[Deploy with heroku-stack-16](https://heroku.com/deploy?template=https://github.com/medicinisto/instastart-identity-provider/tree/heroku-stack-16) 
+The automatic sample app deployment on heroku is broken. We need to use the old buildack heroku-16 to get it run. This branch is a workaround:
+
+* create app on dashboard.layer.com
+* go to tool,click on start and follow the instructions
+* after click on 'deploy on heroku' we will get an ruy related error
+* now click here: [Deploy with heroku-stack-16](https://heroku.com/deploy?template=https://github.com/medicinisto/instastart-identity-provider/tree/heroku-stack-16) and copy the values from the failed create form to this new one and finish the deployment
 
 # Instastart Identity Provider
 
