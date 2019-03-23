@@ -1,3 +1,5 @@
+[Deploy with heroku-stack-16](https://heroku.com/deploy?template=https://github.com/medicinisto/instastart-identity-provider/tree/heroku-stack-16) 
+
 # Instastart Identity Provider
 
 This is a Rails app that provides a ready-to-deploy, sample Identity Provider which can be used with any Layer application. This README assumes that you are familiar with the structure of Rails applications, including routes and MVC.
