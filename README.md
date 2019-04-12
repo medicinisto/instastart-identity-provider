@@ -1,4 +1,4 @@
-The automatic sample app deployment on heroku is broken. We need to use the old buildack heroku-16 to get it run. This branch is a workaround:
+The automatic sample app deployment on heroku is broken. We need to use the old buildpack heroku-16 to get it run. This branch is a workaround:
 
 * create app on dashboard.layer.com
 * go to tool,click on start and follow the instructions
